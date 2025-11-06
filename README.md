@@ -1,7 +1,3 @@
-<!-- Banner principal -->
-<p align="center">
-  <img src="https://lovable.dev/opengraph-image-p98pqg.png" alt="Escola Estadual Rui Barbosa" width="800"/>
-</p>
 
 <h1 align="center">🏫 Escola Estadual Rui Barbosa</h1>
 <h3 align="center">Transformando vidas pelo conhecimento</h3>
